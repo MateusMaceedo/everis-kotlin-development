@@ -1,4 +1,6 @@
-<img width="700" src="https://storage.ning.com/topology/rest/1.0/file/get/1802504447?profile=RESIZE_1024x1024" class="align-full">
+<img src="https://www.everis.com/sites/all/themes/everis/logo.png" width="132" height="65">
+
+<img width="300" src="https://storage.ning.com/topology/rest/1.0/file/get/1802504447?profile=RESIZE_1024x1024" class="align-full">
 
 # Kotlin
 Repositório para api em Kotlin, seguindo as melhores praticas de pattens e integração com Web e Mobile.
