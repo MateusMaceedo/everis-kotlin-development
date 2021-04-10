@@ -33,7 +33,7 @@
 - Padrões e convenções profissionais de codificação com Kotlin
 - Praticando programação em Kotlin 
 
-- [Documentação Android](https://developer.android.com/docs?hl=pt-br)
+- [x][Documentação Android](https://developer.android.com/docs?hl=pt-br)
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
