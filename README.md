@@ -34,7 +34,8 @@
 - [X] Praticando programação em Kotlin 
 
 #### Arquitetura Kotlin
-<a class="js-navigation-open Link--primary" title="kotlin-arquitetura.png" data-pjax="#repo-content-pjax-container" href="/MateusMaceedo/everis-kotlin-development/blob/main/img/kotlin-arquitetura.png">kotlin-arquitetura.png</a>
+<img src="https://github.com/MateusMaceedo/everis-kotlin-development/blob/main/img/kotlin-arquitetura.png?raw=true" width="132" height="65">
+
 
 - [Documentação Android](https://developer.android.com/docs?hl=pt-br)
 
