@@ -34,8 +34,7 @@
 - [X] Praticando programação em Kotlin 
 
 #### Arquitetura Kotlin
-<img src="https://github.com/MateusMaceedo/everis-kotlin-development/blob/main/img/kotlin-arquitetura.png?raw=true" width="132" height="65">
-
+<img src="/MateusMaceedo/everis-kotlin-development/blob/main/img/kotlin-arquitetura.png?raw=true" alt="kotlin-arquitetura.png">
 
 - [Documentação Android](https://developer.android.com/docs?hl=pt-br)
 
