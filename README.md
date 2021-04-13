@@ -33,6 +33,9 @@
 - [X] Padrões e convenções profissionais de codificação com Kotlin
 - [X] Praticando programação em Kotlin 
 
+#### Arquitetura Kotlin
+<a class="js-navigation-open Link--primary" title="kotlin-arquitetura.png" data-pjax="#repo-content-pjax-container" href="/MateusMaceedo/everis-kotlin-development/blob/main/img/kotlin-arquitetura.png">kotlin-arquitetura.png</a>
+
 - [Documentação Android](https://developer.android.com/docs?hl=pt-br)
 
 ## 👨🏻‍🚀 Sobre mim
