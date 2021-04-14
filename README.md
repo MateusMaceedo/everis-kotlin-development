@@ -33,7 +33,7 @@
 - [X] Padrões e convenções profissionais de codificação com Kotlin
 - [X] Praticando programação em Kotlin 
 
-#### Arquitetura Kotlin
+#### Arquitetura inicial do Kotlin
 
 <img src="https://github.com/MateusMaceedo/everis-kotlin-development/blob/main/img/kotlin-arquitetura.png?raw=true" alt="kotlin-arquitetura.png">
 
